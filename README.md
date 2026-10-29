@@ -585,5 +585,5 @@ For questions, issues, or suggestions, please refer to the project documentation
 
 ---
 
-**Last Updated:** August 2026
+**Last Updated:** September 2026
 **Version:** 0.1.0
